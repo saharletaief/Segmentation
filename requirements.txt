@@ -5,7 +5,3 @@ skimage==0.16.2
 matplotlib==3.2.2
 pandas==1.0.5
 sklearn.cluster==0.23.1
-certifi==2019.11.28
-pipenv==2018.11.26
-virtualenv==16.7.8
-virtualenv-clone==0.5.3
